@@ -7,7 +7,7 @@ $redisConfig = [
     'scheme' => 'tcp',
     'host' => 'redis-12156.c1.asia-northeast1-1.gce.cloud.redislabs.com',
     'port' => 12156,
-    'password' => 'A2giNtgc8yPBm5bTwcwkxteau2PVfO4Z',
+    'password' => 'YourPass',
 ];
 
 try {
